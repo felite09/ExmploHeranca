@@ -1,0 +1,2 @@
+# ExmploHeranca
+Herança entre classes.
